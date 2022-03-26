@@ -29,7 +29,7 @@
     "gulp-sass-lint": "^1.4.0",
     "gulp-scss-lint": "^1.0.0",
     "gulp-uglify": "^3.0.2",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "prettier": "^2.1.2"
   },
   "dependencies": {
